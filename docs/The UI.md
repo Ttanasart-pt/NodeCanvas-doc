@@ -1,8 +1,8 @@
 #UI#
-NodeCanvas main UI have two mode. Drawing mode and node mode. To swap mode **double click** at the tool rack.
+NodeCanvas main UI has two modes. Drawing mode and node editor mode. To swap mode **double click** at the brush rack.
 
 ##Drawing mode##
-
+ 
 
 ##Node mode##
 

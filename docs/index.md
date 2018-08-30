@@ -10,7 +10,7 @@ Main feature of NodeCanvas is the use of node to control brush appearance.
 Other feature include particle brush, vector stroke, etc.
 
 ##Performance##
-NodeCanvas is build by GameMaker studio. So it can slow down other program when using NodeCanvas.
+NodeCanvas is build by GameMaker studio. So it can slow down other running program. 
 
 ##Bugs report##
 As NodeCanvas is still in early release. Bug/Crash can occur. To report bugs, please go to [NodeCanvas discussion board](https://makham.itch.io/nodecanvas).
