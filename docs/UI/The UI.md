@@ -4,7 +4,7 @@ NodeCanvas main UI has two modes. Drawing mode and node editor mode. To swap mod
 ##Brush rack##
 Brush rack stay persistent over both mode.
 
-* **Brush set** : Create, open or add brush from hard drive.
+* [**Brush set**]() : Create, open or add brush from hard drive.
 * **Brush rack** : Display all available brushes.
 * **Add Brush** : Create new brush (normal, particle and eraser brushes)
 
@@ -23,14 +23,3 @@ Status bar located at the bottom of the screen. Status bar menu is mode-sensitiv
 ![nodeUI](https://github.com/Ttanasart-pt/NodeCanvas-doc/blob/master/img/node%20editor%20mode.png)
 
 Node mode is used to edit brushes appearance. Go to [Node mode]() for more detail.
-
-##Separate window##
-###Brush set###
-![setUI]()
-
-* ![]() Open brush set directory.
-* ![]() Refresh brush set list.
-* ![]() Save current brush rack as brush set.
-
-* ![]() Replace current brush rack with this set.
-* ![]() Add this set into brush rack.
