@@ -14,7 +14,7 @@ Brush rack stay persistent over both mode.
 Status bar located at the bottom of the screen. Status bar menu is mode-sensitive.
 
 ##Drawing mode##
-![drawingUI](https://github.com/Ttanasart-pt/NodeCanvas-doc/blob/master/img/drawing%20mode.png)
+![drawingUI](https://github.com/Ttanasart-pt/NodeCanvas-doc/blob/master/img/drawing%20mode.png "123")
 
 * [**Canvas**]()
 * [**Layer panel**]()
