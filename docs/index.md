@@ -1,5 +1,5 @@
 #Introduction#
-NodeCanvas is a drawing program developed by MakhamDev. The current version of NodeCanvas is 1.0.0.
+NodeCanvas is a drawing program developed by MakhamDev. The current version of NodeCanvas is 1.3.1.
 
 ##Features##
 Main feature of NodeCanvas is the use of node to control brush appearance. 
